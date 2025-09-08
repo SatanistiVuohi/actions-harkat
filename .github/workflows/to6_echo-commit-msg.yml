@@ -1,3 +1,5 @@
+name: T06 - Echo commit message
+
 on:
   push:
     branches:
